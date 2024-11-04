@@ -1,8 +1,15 @@
-## Hello, World. I'm Leticia! 👋
-- 🔭 I’m a UX/UI Designer
-- 🌱 Learning Front-End Development
-- 📫 Let's talk!: frazaosleticia@gmail.com
-- 😄 Pronouns: she/her
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFef3&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World.+👋;+I'm+Letícia+Frazão!;" />
+
+</h1>
+
+
+<p>👩‍💻 I’m a UX/UI Designer</p>
+<p>🎓 I'm studying Systems Analysis and Development<br>at Anhanguera University</p>
+<p>📫 Let's talk!: frazaosleticia@gmail.com</p>
+
+
+
 <div>
   <a href="https://github.com/leticiasfrazao">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasfrazao&layout=compact&langs_count=7&theme=panda"/>
@@ -30,6 +37,10 @@
 
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFef3&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+.README!+😊" />
+</h1>
+  </div>
 <!--
 **leticiasfrazao/leticiasfrazao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
