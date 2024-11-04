@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFef3&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World.+👋;+I'm+Letícia+Frazão!;" />
-
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFef3&width=500&height=70&duration=4000&lines=Hello,+World.+👋;+I'm+Letícia+Frazão!" style="display: block; margin: 0; padding: 0;" />
 </h1>
 
 
@@ -37,11 +36,10 @@
 
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFef3&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+.README!+😊" />
-</h1>
-
 ![Snake animation](https://raw.githubusercontent.com/leticiasfrazao/leticiasfrazao/ad6fa7bb86334b9234c377dcb8604924e0b91bdf/snake-gif.svg)
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFef3&width=500&height=70&duration=4000&lines=Thanks+for+.README!+😊" style="display: block; margin: 0; padding: 0;" />
+
+
   </div>
 
 
