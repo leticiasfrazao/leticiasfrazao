@@ -3,7 +3,7 @@
 </h1>
 
 
-<p>👩‍💻 I’m a UX/UI Designer</p>
+<p>👩‍💻 I’m a Mendix Developer with UX/UI Background</p>
 <p>🎓 I'm studying Systems Analysis and Development<br>at Anhanguera University</p>
 <p>📫 Let's talk!: frazaosleticia@gmail.com</p>
 
